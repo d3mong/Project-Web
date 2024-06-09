@@ -1,2 +1,2 @@
-# login-page
-login page
+# Project Web Rekomendasi Hotel Sidoarjo
+Tampilan beranda web rekomendasi hotel
